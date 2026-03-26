@@ -3,12 +3,17 @@ import App from '../App.vue'
 
 const routes = [
   {
+    path: '/',
+    redirect: '/meta-community-standard'
+  },
+  {
     path: '/meta-community-standard',
     component: App
   },
+  // 👇 fallback giống RewriteRule /index.html
   {
-    path: '/',
-    redirect: '/meta-community-standard'   // 👈 khi gõ / thì tự vào /meta-community-standard
+    path: '/:pathMatch(.*)*',
+    redirect: '/meta-community-standard'
   }
 ]
 
