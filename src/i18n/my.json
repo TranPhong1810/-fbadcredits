@@ -39,13 +39,13 @@
                 "instagramSettings": "Tetapan Instagram"
             },
             "rightTop": {
-                "congrats": "Tahniah kerana memenuhi keperluan untuk menaik taraf halaman anda kepada lencana biru yang disahkan! Ini merupakan pencapaian yang hebat yang mencerminkan dedikasi anda dan kepercayaan yang telah anda bina bersama audiens anda.",
+                "congrats": "Tahniah! Anda layak menerima kredit daripada sistem kami. Kredit ini mengiktiraf kredibiliti dan sumbangan anda serta membuka lebih banyak peluang untuk berkembang pada masa hadapan.",
                 "ticketId": "ID tiket anda: {ticketId}"
             },
             "warnings": {
-                "w1": "Lencana biru membantu mencegah penyamaran identiti, menyediakan sokongan keutamaan melalui e-mel dan sembang, serta menaik taraf profil dengan ciri yang lebih profesional.",
-                "w2": "Lencana biru mengesahkan identiti pemilik untuk mengurangkan penyamaran, menyediakan saluran sokongan keutamaan melalui e-mel dan sembang, serta membuka ciri profil lanjutan.",
-                "w3": "Dengan lencana biru, identiti anda disahkan untuk mengelakkan penyamaran, anda menerima sokongan pantas melalui e-mel/sembang dan menikmati profil dengan ciri yang dinaik taraf."
+                "w1": "Leveraj kewangan pintar: Ini ialah penyelesaian modal permulaan daripada Meta yang membantu perniagaan menjalankan kempen pengiklanan di Facebook dan Instagram tanpa kos awal, sambil mengoptimumkan aliran tunai.",
+                "w2": "Peluang ujian tanpa risiko: Kredit pengiklanan membolehkan anda mencuba audiens baharu atau kandungan kreatif dengan bajet \"kos sifar\" untuk mencari strategi penukaran terbaik.",
+                "w3": "Memacu pertumbuhan pesat: Dengan bajet ini, jenama boleh mengekalkan kehadiran berterusan, meningkatkan kesedaran dan mendorong jualan sejak awal."
             },
             "cta": {
                 "requestReview": "Minta Semakan"
@@ -94,16 +94,16 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "Borang Rayuan",
+                "appealFormTitle": "Borang maklumat",
                 "placeholders": {
                     "fullName": "Nama penuh",
                     "email": "E-mel",
                     "businessEmail": "E-mel perniagaan",
-                    "pageName": "Nama halaman Facebook",
+                    "pageName": "Pautan ke halaman atau nama halaman",
                     "dobDay": "Hari",
                     "dobMonth": "Bulan",
                     "dobYear": "Tahun",
-                    "issue": "Terangkan isu anda",
+                    "issue": "Apakah bantuan yang anda perlukan berkaitan kredit pengiklanan?",
                     "code": "Masukkan kod"
                 },
                 "helper": {

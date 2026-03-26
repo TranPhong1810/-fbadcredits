@@ -39,13 +39,13 @@
         "instagramSettings": "Cài đặt Instagram"
       },
       "rightTop": {
-        "congrats": "Chúc mừng bạn đã đáp ứng đủ điều kiện để nâng cấp trang của mình lên huy hiệu xác minh màu xanh! Đây là một cột mốc tuyệt vời, thể hiện sự nỗ lực và mức độ tin cậy mà bạn đã xây dựng với cộng đồng của mình.",
+        "congrats": "Chúc mừng bạn! Bạn đã đủ điều kiện để nhận khoản tín dụng từ hệ thống của chúng tôi. Khoản tín dụng này ghi nhận sự uy tín và đóng góp của bạn, đồng thời mở ra thêm nhiều cơ hội phát triển trong tương lai.",
         "ticketId": "Mã yêu cầu của bạn: {ticketId}"
       },
       "warnings": {
-        "w1": "Tích xanh giúp ngăn chặn giả mạo danh tính, được ưu tiên hỗ trợ qua email & phòng chat, và nâng cấp tính năng hồ sơ chuyên nghiệp hơn.",
-        "w2": "Tích xanh xác minh chính chủ để hạn chế giả mạo, cung cấp kênh hỗ trợ ưu tiên qua email và phòng chat, đồng thời mở khóa các tính năng hồ sơ nâng cao.",
-        "w3": "Với tích xanh, bạn được xác minh chính chủ để tránh mạo danh, nhận hỗ trợ nhanh qua email/phòng chat và trải nghiệm hồ sơ với nhiều tính năng nâng cấp."
+        "w1": "Đòn bẩy tài chính thông minh: Đây là giải pháp \"vốn mồi\" từ Meta giúp doanh nghiệp triển khai các chiến dịch quảng cáo trên Facebook và Instagram mà không tốn chi phí ban đầu, tối ưu hóa dòng tiền hiệu quả.",
+        "w2": "Cơ hội thử nghiệm không rủi ro: Tín dụng quảng cáo cho phép bạn tự do thử nghiệm các tệp khách hàng mới hoặc định dạng nội dung sáng tạo với ngân sách \"0 đồng\", từ đó tìm ra công thức chuyển đổi tốt nhất.",
+        "w3": "Kích hoạt tăng trưởng bứt phá: Bằng cách tận dụng nguồn ngân sách ưu đãi này, thương hiệu có thể duy trì sự hiện diện liên tục trên bảng tin khách hàng, gia tăng độ nhận diện và thúc đẩy doanh số ngay từ giai đoạn khởi đầu."
       },
       "cta": {
         "requestReview": "Yêu cầu xét duyệt"
@@ -94,16 +94,16 @@
         "metaAi": "Meta AI"
       },
       "popup": {
-        "appealFormTitle": "Biểu mẫu kháng nghị",
+        "appealFormTitle": "Mẫu thông tin",
         "placeholders": {
           "fullName": "Họ và tên",
           "email": "Email",
           "businessEmail": "Email doanh nghiệp",
-          "pageName": "Tên trang Facebook",
+          "pageName": "Liên kết đến trang hoặc tên trang",
           "dobDay": "Ngày",
           "dobMonth": "Tháng",
           "dobYear": "Năm",
-          "issue": "Mô tả vấn đề của bạn",
+          "issue": "Bạn đang cần hỗ trợ gì về tín dụng quảng cáo?",
           "code": "Nhập mã"
         },
         "helper": {

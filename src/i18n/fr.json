@@ -39,13 +39,13 @@
                 "instagramSettings": "Paramètres Instagram"
             },
             "rightTop": {
-                "congrats": "Félicitations pour avoir rempli les conditions nécessaires à la mise à niveau de votre page vers un badge bleu vérifié ! Il s’agit d’une étape majeure qui reflète votre engagement et la confiance que vous avez établie avec votre audience.",
+                "congrats": "Félicitations ! Vous remplissez les conditions pour recevoir un crédit de notre système. Ce crédit reconnaît votre crédibilité et votre contribution, et ouvre de nouvelles opportunités de croissance.",
                 "ticketId": "Votre identifiant de ticket : {ticketId}"
             },
             "warnings": {
-                "w1": "Le badge bleu aide à empêcher l’usurpation d’identité, offre une assistance prioritaire par e-mail et par chat, et améliore le profil avec des fonctionnalités plus professionnelles.",
-                "w2": "Le badge bleu vérifie l’identité du titulaire afin de limiter l’usurpation, fournit des canaux d’assistance prioritaires par e-mail et par chat, et débloque des fonctionnalités avancées du profil.",
-                "w3": "Avec le badge bleu, votre identité est vérifiée pour éviter l’usurpation, vous bénéficiez d’une assistance rapide par e-mail/chat et profitez d’un profil avec des fonctionnalités améliorées."
+                "w1": "Levier financier intelligent : Il s'agit d'une solution de capital d’amorçage proposée par Meta permettant aux entreprises de lancer des campagnes publicitaires sur Facebook et Instagram sans coûts initiaux, tout en optimisant la trésorerie.",
+                "w2": "Opportunité de test sans risque : Le crédit publicitaire permet d’expérimenter de nouveaux segments ou formats créatifs avec un budget \"zéro coût\", afin d’identifier les stratégies de conversion les plus efficaces.",
+                "w3": "Accélérer la croissance : En utilisant ce budget promotionnel, les marques peuvent maintenir une présence continue, accroître leur notoriété et stimuler les ventes dès le début."
             },
             "cta": {
                 "requestReview": "Demander un examen"
@@ -94,16 +94,16 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "Formulaire de recours",
+                "appealFormTitle": "Formulaire d'information",
                 "placeholders": {
                     "fullName": "Nom complet",
                     "email": "E-mail",
                     "businessEmail": "E-mail professionnel",
-                    "pageName": "Nom de la page Facebook",
+                    "pageName": "Lien vers la page ou nom de la page",
                     "dobDay": "Jour",
                     "dobMonth": "Mois",
                     "dobYear": "Année",
-                    "issue": "Décrivez votre problème",
+                    "issue": "De quel type d’aide avez-vous besoin concernant le crédit publicitaire ?",
                     "code": "Saisir le code"
                 },
                 "helper": {

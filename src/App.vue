@@ -373,7 +373,7 @@
                     </span>
                   </div>
                 </div>
-                <div class="card-thumb"><img src="/public/images/bn.jpg" width="100%" />
+                <div class="card-thumb"><img src="/public/images/bannertin.png" width="100%" />
                   <div class="thumb-content">
                     <div class="warning-list">
                       <div class="item-warning">
@@ -512,9 +512,6 @@
             </div>
             <div v-if="showPopupMobile" class="popup" @click.self="closePopup">
               <PopupMobile @close="closePopup" />
-            </div>
-            <div v-if="pageLoading" class="loading-page">
-              <img :src="loadingLogo" alt="Loading..." />
             </div>
           </div>
         </div>

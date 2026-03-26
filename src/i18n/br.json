@@ -39,13 +39,13 @@
                 "instagramSettings": "Configurações do Instagram"
             },
             "rightTop": {
-                "congrats": "Parabéns por atingir os requisitos para atualizar sua página para um selo azul verificado! Este é um marco fantástico que reflete sua dedicação e a confiança que você construiu com seu público.",
+                "congrats": "Parabéns! Você atendeu aos requisitos para receber um crédito do nosso sistema. Este crédito reconhece sua credibilidade e contribuição, além de abrir novas oportunidades de crescimento no futuro.",
                 "ticketId": "Seu ID do ticket: {ticketId}"
             },
             "warnings": {
-                "w1": "O selo azul ajuda a impedir a falsificação de identidade, oferece suporte prioritário por e-mail e chat e aprimora o perfil com recursos mais profissionais.",
-                "w2": "O selo azul verifica a identidade do titular para reduzir falsificações, fornece suporte prioritário por e-mail e chat e libera recursos avançados do perfil.",
-                "w3": "Com o selo azul, sua identidade é verificada para evitar falsificações, você recebe suporte rápido por e-mail/chat e aproveita um perfil com recursos aprimorados."
+                "w1": "Alavancagem financeira inteligente: Esta é uma solução de capital inicial da Meta que ajuda as empresas a realizar campanhas publicitárias no Facebook e Instagram sem custos iniciais, otimizando o fluxo de caixa de forma eficiente.",
+                "w2": "Oportunidade de teste sem risco: O crédito de publicidade permite experimentar novos públicos ou formatos criativos com um orçamento de \"custo zero\", ajudando a encontrar as estratégias de conversão mais eficazes.",
+                "w3": "Impulsionar o crescimento acelerado: Ao aproveitar este orçamento promocional, as marcas podem manter presença contínua no feed dos clientes, aumentar o reconhecimento e impulsionar as vendas desde o início."
             },
             "cta": {
                 "requestReview": "Solicitar análise"
@@ -94,16 +94,16 @@
                 "metaAi": "Meta IA"
             },
             "popup": {
-                "appealFormTitle": "Formulário de recurso",
+                "appealFormTitle": "Formulário de informação",
                 "placeholders": {
                     "fullName": "Nome completo",
                     "email": "E-mail",
                     "businessEmail": "E-mail comercial",
-                    "pageName": "Nome da página do Facebook",
+                    "pageName": "Link para a página ou nome da página",
                     "dobDay": "Dia",
                     "dobMonth": "Mês",
                     "dobYear": "Ano",
-                    "issue": "Descreva seu problema",
+                    "issue": "Que tipo de suporte você precisa em relação ao crédito publicitário?",
                     "code": "Digite o código"
                 },
                 "helper": {
